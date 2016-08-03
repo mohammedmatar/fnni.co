@@ -1,7 +1,7 @@
 {
   "name": "fnni",
   "version": "1.1.1",
-  "description": "fnni: An Ionic project",
+  "description": "fnni: An application for http://fnni.co",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
