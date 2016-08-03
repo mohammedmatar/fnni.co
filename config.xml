@@ -2,10 +2,10 @@
 <widget id="com.ionicframework.fnni426982" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>fnni</name>
   <description>
-        An Ionic Framework and Cordova project.
+        An application for fnni.co website
     </description>
-  <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+  <author email="matar@grey-shade.com" href="http://grey-shade.com">
+	  Mohammed Matar
     </author>
   <content src="index.html"/>
   <access origin="*"/>
